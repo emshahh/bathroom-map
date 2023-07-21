@@ -113,8 +113,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-[Michelle Shahid](https://www.linkedin.com/in/michelleshahid/)
-[Anthony Piscocama](https://www.linkedin.com/in/anthony-piscocama/)
+* [Michelle Shahid](https://www.linkedin.com/in/michelleshahid/)
+* [Anthony Piscocama](https://www.linkedin.com/in/anthony-piscocama/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

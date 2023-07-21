@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <!-- <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">NYC Bathroom App</h3>
 </div>
@@ -40,7 +40,7 @@
 
 Welcome to the NYC Bathroom App!
 
-We your ultimate companion for locating bathrooms across the city! Our app empowers you and fellow New Yorkers to join forces and build a comprehensive database of bathrooms available for public use.
+We are your ultimate companion for locating bathrooms across the city! Our app empowers you and fellow New Yorkers to join forces and build a comprehensive database of bathrooms available for public use.
 
 Much like the famous navigation app Waze, the NYC Bathroom App relies on community-driven data. Users can easily self-report bathrooms they've discovered, providing essential information about the location, cleanliness, accessibility, and amenities available. With your contributions, we aim to create a reliable and up-to-date resource for everyone navigating the city's diverse neighborhoods.
 
@@ -62,16 +62,16 @@ Whether you're a local, a visitor, or simply passing through, our app aims to en
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<!-- This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps. -->
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+<!-- This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  ``` -->
 
 ### Installation
 

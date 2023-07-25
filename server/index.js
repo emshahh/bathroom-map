@@ -5,6 +5,8 @@ import mongoose from 'mongoose';
 
 // routes
 import authRoute from './route/authRoute.js'
+import toiletRoute from './route/toiletRoute.js'
+
 
 const app = express();
 const PORT = 3001;
@@ -23,6 +25,7 @@ const connect = async () => {
 
 
 app.use('/auth', authRoute)
+app.use('/data', toiletRoute)
 
 
 
